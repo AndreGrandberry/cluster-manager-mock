@@ -1,0 +1,22 @@
+{
+    "message": [
+      {
+        "class": "SWOS",
+        "deployedvmipaddr": [
+          {
+            "family": "ipv4",
+            "ipaddress": "1.1.1.1",
+            "netmask": "1.1.1.1"
+          },
+          {
+            "family": "ipv6",
+            "ipaddress": "1:1:1:1:1:1:1:1",
+            "netmask": "ffff:ffff:ffff:ffff:ffff:ffff::"
+          }
+        ],
+        "id": 11111,
+        "version": "12.9.0"
+      }
+    ],
+    "status": "success"
+}

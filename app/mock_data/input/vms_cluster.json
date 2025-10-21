@@ -1,0 +1,86 @@
+[
+    {
+      "clusterid": 44,
+      "deployedclusterid": 487,
+      "deployedvmbuildid": 48744,
+      "deployedvmconfig": {
+        "config": {
+          "dnsconfig": {
+            "dnsserver": [
+              "1.1.1.11"
+            ]
+          },
+          "ntpconfig": {
+            "ntpserver": [
+              "0.0.0.0"
+            ]
+          },
+          "proxyconfig": {
+            "proxyport": "1111",
+            "proxyserver": "0.0.0.0"
+          },
+          "snmpconfig": {
+            "snmpagent": "yes"
+          }
+        },
+        "options": {
+          "autosdbn": "true",
+          "databasemode": "dds",
+          "restorefactorydefaults": "false",
+          "saveimage": "true",
+          "ssestaging": "true"
+        }
+      },
+      "deployedvmdescr": "",
+      "deployedvmfqdn": "smc-111-111-111",
+      "deployedvmmaster": null,
+      "deployedvmmeta": null,
+      "deployedvmstatus": "INSTALLED",
+      "deployedvmtimestamp": "2025-09-04T14:22:44.853144",
+      "deployedvmuuid": "11111-11111-1111-1111-11111",
+      "id": 111,
+      "operationstamp": "2025-09-04T14:22:44.853144"
+    },
+    {
+      "clusterid": 44,
+      "deployedclusterid": 487,
+      "deployedvmbuildid": 48744,
+      "deployedvmconfig": {
+        "config": {
+          "dnsconfig": {
+            "dnsserver": [
+              "1.1.1.11"
+            ]
+          },
+          "ntpconfig": {
+            "ntpserver": [
+              "1.1.1.1"
+            ]
+          },
+          "proxyconfig": {
+            "proxyport": "111",
+            "proxyserver": "1.1.1.1"
+          },
+          "snmpconfig": {
+            "snmpagent": "yes"
+          }
+        },
+        "options": {
+          "autosdbn": "true",
+          "databasemode": "dds",
+          "restorefactorydefaults": "false",
+          "saveimage": "true",
+          "ssestaging": "true"
+        }
+      },
+      "deployedvmdescr": "",
+      "deployedvmfqdn": "nflow-1-111-1",
+      "deployedvmmaster": null,
+      "deployedvmmeta": null,
+      "deployedvmstatus": "INSTALLED",
+      "deployedvmtimestamp": "2025-09-04T14:22:44.871427",
+      "deployedvmuuid": "11111-11111-1111-1111-11111",
+      "id": 929380,
+      "operationstamp": "2025-09-04T14:22:44.871427"
+    }
+]

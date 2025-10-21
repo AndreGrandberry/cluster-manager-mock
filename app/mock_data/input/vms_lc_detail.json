@@ -1,0 +1,13 @@
+[
+    {
+      "deployedclusterdescr": "Autobots!, cluster rolled out!",
+      "deployedclustermeta": "---\n:count: 2\n",
+      "deployedclustername": "jodoe_48744",
+      "deployedclusterowner": "jodoe",
+      "deployedclusterresourcepool": "jodoe",
+      "deployedclusterstart": "2025-09-09T10:39:15.706071",
+      "deployedclusterstatus": "INITIALIZE",
+      "id": 111,
+      "operationstamp": "2025-09-09T10:39:15.706071"
+    }
+]

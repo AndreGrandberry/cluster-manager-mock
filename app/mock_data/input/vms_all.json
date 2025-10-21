@@ -1,0 +1,32 @@
+[
+    {
+      "deliveredclusterdescr": "This is a mock",
+      "deliveredclustername": "jodoe_48744",
+      "vm_id": 111
+    },
+    {
+      "deliveredclusterdescr": "This is a mock",
+      "deliveredclustername": "jadoe_44487",
+      "vm_id": 222
+    },
+    {
+      "deliveredclusterdescr": "This is a mock",
+      "deliveredclustername": "andrdoe_333",
+      "vm_id": 333
+    },
+    {
+      "deliveredclusterdescr": "This is a mock",
+      "deliveredclustername": "kevdoe_444",
+      "vm_id": 444
+    },
+    {
+      "deliveredclusterdescr": "This is a mock",
+      "deliveredclustername": "vicdoe_555",
+      "vm_id": 555
+    },
+    {
+      "deliveredclusterdescr": "This is a mock",
+      "deliveredclustername": "braddoe_777",
+      "vm_id": 777
+    }
+  ]

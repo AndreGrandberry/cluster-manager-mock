@@ -1,0 +1,13 @@
+[
+    {
+      "authtype": "employee",
+      "email": "jdoe@cisco.com",
+      "fullname": "John Doe (jodoe)",
+      "id": 111,
+      "lastupdate": "2025-09-02T17:36:30.026021-04:00",
+      "spusername": null,
+      "status": "active",
+      "username": "jodoe",
+      "userpass": null
+    }
+]
