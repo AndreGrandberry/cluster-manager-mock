@@ -1,0 +1,12 @@
+[
+  {
+    "username": "jodoe",
+    "vm_id": 111,
+    "clusterid": 44,
+    "message": "Deleting VMs",
+    "podname": "PODBOX16",
+    "deployedvmstatus": "INSTALLED",
+    "version": "12.9.0",
+    "deployedvmtimestamp": "2025-09-04T14:22:44.853144"
+  }
+]
