@@ -44,6 +44,8 @@ The output will be saved to `output.json` in the app directory.
 ## Code Quality: flake8-html
 
 1. Install flake8 and flake8-html
+    Flake8 should already be installed when you run the requirement.txt
+    install script. If not, run this script
     `pip install flake8 flake8-html`
 2. Generatle HTML report
     `flake8 app --format=html --htmldir=flake8-report`
@@ -54,4 +56,5 @@ The output will be saved to `output.json` in the app directory.
 - `backend/app/app.py` — Main ETL pipeline script
 - `mock_data/input/` — Input JSON files
 - `output.json` — Output file
+
 
